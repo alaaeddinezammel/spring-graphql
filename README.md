@@ -2,7 +2,7 @@
 poc: spring boot + graphql
 just hit run as spring boot application
 
-& and put this url inthe browser 
+& and put this url in the browser 
 http://localhost:8055/graphiql
 
 and enjoy testing api 
